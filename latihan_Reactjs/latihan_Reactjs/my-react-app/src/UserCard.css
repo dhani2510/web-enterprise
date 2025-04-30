@@ -1,0 +1,13 @@
+.user-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    width: 200px;
+    text-align: center;
+    border-radius: 8px;
+    margin: 10px;
+  }
+  .user-card img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
